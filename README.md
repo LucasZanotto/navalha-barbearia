@@ -4,7 +4,7 @@ Site para barbearia com **agendamento online**. O cliente escolhe o serviço, o 
 
 > Projeto demonstrativo: a barbearia é fictícia.
 
-**🔗 Demo:** _adicione o link aqui depois do deploy_
+**🔗 Demo:** [navalha-barbearia-xi.vercel.app](https://navalha-barbearia-xi.vercel.app)
 
 ![Navalha Barbearia](docs/preview.jpg)
 
